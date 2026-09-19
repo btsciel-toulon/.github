@@ -14,8 +14,8 @@ Cette organisation héberge les **dépôts de projets des étudiants**, créés 
 des années par GitHub Classroom. La plupart sont privés : ce sont des travaux en
 cours d'évaluation.
 
-Les **supports de cours et les travaux pratiques** sont publics, et vivent
-ailleurs :
+Les **supports de cours et les travaux pratiques**, eux, sont publics et
+ouverts à tous :
 
 | Dépôt | Contenu |
 |---|---|
