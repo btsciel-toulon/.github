@@ -19,7 +19,7 @@ ailleurs :
 
 | Dépôt | Contenu |
 |---|---|
-| [epsilonrt/epsilonrt-labs](https://github.com/epsilonrt/epsilonrt-labs) | Tutoriels, sujets de TP et procédures — électronique, réseaux et systèmes |
+| [btsciel-toulon/epsilonrt-labs](https://github.com/btsciel-toulon/epsilonrt-labs) | Tutoriels, sujets de TP et procédures — électronique, réseaux et systèmes |
 
 ## Pour les visiteurs de passage
 
