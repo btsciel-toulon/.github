@@ -20,7 +20,7 @@ ouverts à tous :
 | Dépôt | Contenu |
 |---|---|
 | [btsciel-toulon/epsilonrt-labs](https://github.com/btsciel-toulon/epsilonrt-labs) | Tutoriels, sujets de TP et procédures — électronique, réseaux et systèmes |
-| [btsciel-toulon/fablab](https://github.com/btsciel-toulon/fablab) | Fablab électronique — assemblage de cartes CMS, informatique embarquée, IoT, IA embarquée : documentation, activités pratiques et projets |
+| [btsciel-toulon/fablab](https://github.com/btsciel-toulon/fablab) | FabLab TRACE, fablab électronique / informatique embarquée du lycée Rouvière — assemblage de cartes CMS, informatique embarquée, IoT, IA embarquée : documentation, activités pratiques et projets |
 
 ## Pour les visiteurs de passage
 
